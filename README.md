@@ -74,7 +74,12 @@ This helps categorize air quality into levels such as:
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository
-
 ```bash
+# Clone the repository
 git clone https://github.com/your-username/air-quality-prediction.git
+
+# Move into the project directory
+cd air-quality-prediction
+
+# Open the Jupyter Notebook
+jupyter notebook air-quality-prediction.ipynb
